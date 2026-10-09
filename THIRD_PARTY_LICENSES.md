@@ -1,0 +1,11 @@
+# Third-party font notices
+
+UltraUniversalMod includes the six TrueType font files listed below. No OpenType (`.otf`) or other font files are bundled. These fonts retain their own licenses; the UltraUniversalMod LICENSE does not replace them. The names, copyright notices, and license statements were checked against the fonts' embedded metadata and the upstream license texts.
+
+| Bundled files | Font and authors | Upstream source | License text in this release |
+| --- | --- | --- | --- |
+| `UltraUniversalMod/Comfortaa/Comfortaa-Medium.ttf`, `UltraUniversalMod/Comfortaa/Comfortaa-SemiBold.ttf`, `UltraUniversalMod/fonts/Comfortaa-Regular.ttf` | Comfortaa; Johan Aakerlund and the Comfortaa Project Authors. Embedded notice: Copyright 2011 The Comfortaa Project Authors, with Reserved Font Name "Comfortaa". | [Comfortaa project](https://github.com/googlefonts/comfortaa) and [Google Fonts distribution](https://github.com/google/fonts/tree/main/ofl/comfortaa) | [Comfortaa-OFL.txt](UltraUniversalMod/licenses/Comfortaa-OFL.txt), SIL Open Font License 1.1 |
+| `UltraUniversalMod/fonts/NotoSerif-Regular.ttf`, `UltraUniversalMod/fonts/NotoSerif-Bold.ttf` | Noto Serif; the Noto Project Authors. Embedded notice: Copyright 2022 The Noto Project Authors. | [Noto Latin, Greek, Cyrillic project](https://github.com/notofonts/latin-greek-cyrillic) and [Google Fonts distribution](https://github.com/google/fonts/tree/main/ofl/notoserif) | [NotoSerif-OFL.txt](UltraUniversalMod/licenses/NotoSerif-OFL.txt), SIL Open Font License 1.1 |
+| `UltraUniversalMod/fonts/DejaVuSans.ttf` | DejaVu Sans; Bitstream, Inc., Tavmjong Bah (Arev glyphs), and DejaVu contributors. The font's metadata states that DejaVu changes are in the public domain. | [DejaVu Fonts project](https://github.com/dejavu-fonts/dejavu-fonts) | [DejaVuSans-LICENSE.txt](UltraUniversalMod/licenses/DejaVuSans-LICENSE.txt), including the Bitstream Vera and Arev notices and terms |
+
+The full license texts above are copied from the cited upstream projects and are distributed with the font files. They permit redistribution of these fonts with software when their respective notices and conditions are retained. The exact download origin of the individual binary copies predates this release audit; their embedded family, copyright, and license metadata agrees with the cited upstream projects.
